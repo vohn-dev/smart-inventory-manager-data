@@ -1,1 +1,6 @@
-
+[
+  { "name": "FEU Manila Branch", "latitude": 14.6037, "longitude": 120.9897 },
+  { "name": "Quezon City Branch", "latitude": 14.6760, "longitude": 121.0437 },
+  { "name": "Makati Branch", "latitude": 14.5547, "longitude": 121.0244 },
+  { "name": "Pasig Branch", "latitude": 14.5764, "longitude": 121.0851 }
+]
